@@ -3,6 +3,7 @@
 html {
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-size: 62.5%;
+    color: var(--font-light);
 }
 
 * {
