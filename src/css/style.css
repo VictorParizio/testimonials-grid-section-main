@@ -90,10 +90,10 @@ body {
 
 .attribution a {
     font-weight: 600;
-    color: var(--font-dark);
+    color: hsl(219, 29%, 14%);
     transition: 0.2s ease-in-out;
 }
 
 .attribution a:hover {
-    color: var(--font-light);
+    color: hsl(263, 55%, 52%);
 }
